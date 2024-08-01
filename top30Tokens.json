@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "symbol": "WBTC"
+  },
+  {
+    "rank": 2,
+    "symbol": "WETH"
+  },
+  {
+    "rank": 3,
+    "symbol": "USDT"
+  },
+  {
+    "rank": 4,
+    "symbol": "BNB"
+  },
+  {
+    "rank": 5,
+    "symbol": "SOL"
+  },
+  {
+    "rank": 6,
+    "symbol": "USDC"
+  },
+  {
+    "rank": 7,
+    "symbol": "XRP"
+  },
+  {
+    "rank": 8,
+    "symbol": "TON"
+  },
+  {
+    "rank": 9,
+    "symbol": "DOGE"
+  },
+  {
+    "rank": 10,
+    "symbol": "ADA"
+  },
+  {
+    "rank": 11,
+    "symbol": "TRX"
+  },
+  {
+    "rank": 12,
+    "symbol": "SHIB"
+  },
+  {
+    "rank": 13,
+    "symbol": "AVAX"
+  },
+  {
+    "rank": 14,
+    "symbol": "DOT"
+  },
+  {
+    "rank": 15,
+    "symbol": "LINK"
+  },
+  {
+    "rank": 16,
+    "symbol": "BCH"
+  },
+  {
+    "rank": 17,
+    "symbol": "NEAR"
+  },
+  {
+    "rank": 18,
+    "symbol": "LEO"
+  },
+  {
+    "rank": 19,
+    "symbol": "MATIC"
+  },
+  {
+    "rank": 20,
+    "symbol": "LTC"
+  },
+  {
+    "rank": 21,
+    "symbol": "DAI"
+  },
+  {
+    "rank": 22,
+    "symbol": "PEPE"
+  },
+  {
+    "rank": 23,
+    "symbol": "UNI"
+  },
+  {
+    "rank": 39,
+    "symbol": "MNT"
+  },
+  {
+    "rank": 25,
+    "symbol": "KAS"
+  },
+  {
+    "rank": 26,
+    "symbol": "FET"
+  },
+  {
+    "rank": 32,
+    "symbol": "MKR"
+  },
+  {
+    "rank": 28,
+    "symbol": "APT"
+  },
+  {
+    "rank": 34,
+    "symbol": "RNDR"
+  },
+  {
+    "rank": 48,
+    "symbol": "GRT"
+  }
+]

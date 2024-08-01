@@ -1,0 +1,152 @@
+[
+  {
+    "rank": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC"
+  },
+  {
+    "rank": 2,
+    "name": "Ethereum",
+    "symbol": "ETH"
+  },
+  {
+    "rank": 3,
+    "name": "Tether USDt",
+    "symbol": "USDT"
+  },
+  {
+    "rank": 4,
+    "name": "BNB",
+    "symbol": "BNB"
+  },
+  {
+    "rank": 5,
+    "name": "Solana",
+    "symbol": "SOL"
+  },
+  {
+    "rank": 6,
+    "name": "USDC",
+    "symbol": "USDC"
+  },
+  {
+    "rank": 7,
+    "name": "XRP",
+    "symbol": "XRP"
+  },
+  {
+    "rank": 8,
+    "name": "Toncoin",
+    "symbol": "TON"
+  },
+  {
+    "rank": 9,
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "rank": 10,
+    "name": "Cardano",
+    "symbol": "ADA"
+  },
+  {
+    "rank": 11,
+    "name": "TRON",
+    "symbol": "TRX"
+  },
+  {
+    "rank": 12,
+    "name": "Avalanche",
+    "symbol": "AVAX"
+  },
+  {
+    "rank": 13,
+    "name": "Shiba Inu",
+    "symbol": "SHIB"
+  },
+  {
+    "rank": 14,
+    "name": "Polkadot",
+    "symbol": "DOT"
+  },
+  {
+    "rank": 15,
+    "name": "Chainlink",
+    "symbol": "LINK"
+  },
+  {
+    "rank": 16,
+    "name": "Bitcoin Cash",
+    "symbol": "BCH"
+  },
+  {
+    "rank": 17,
+    "name": "NEAR Protocol",
+    "symbol": "NEAR"
+  },
+  {
+    "rank": 18,
+    "name": "UNUS SED LEO",
+    "symbol": "LEO"
+  },
+  {
+    "rank": 19,
+    "name": "Dai",
+    "symbol": "DAI"
+  },
+  {
+    "rank": 20,
+    "name": "Litecoin",
+    "symbol": "LTC"
+  },
+  {
+    "rank": 21,
+    "name": "Polygon",
+    "symbol": "MATIC"
+  },
+  {
+    "rank": 22,
+    "name": "Pepe",
+    "symbol": "PEPE"
+  },
+  {
+    "rank": 23,
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "rank": 24,
+    "name": "Internet Computer",
+    "symbol": "ICP"
+  },
+  {
+    "rank": 25,
+    "name": "Kaspa",
+    "symbol": "KAS"
+  },
+  {
+    "rank": 26,
+    "name": "Artificial Superintelligence Alliance",
+    "symbol": "FET"
+  },
+  {
+    "rank": 27,
+    "name": "Ethereum Classic",
+    "symbol": "ETC"
+  },
+  {
+    "rank": 28,
+    "name": "Aptos",
+    "symbol": "APT"
+  },
+  {
+    "rank": 29,
+    "name": "Stellar",
+    "symbol": "XLM"
+  },
+  {
+    "rank": 30,
+    "name": "Monero",
+    "symbol": "XMR"
+  }
+]

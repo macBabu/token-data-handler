@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Bitcoin",
+    "token": "wbtc",
+    "network": [
+      { "chainId": 1, "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599" },
+      {
+        "chainId": 10,
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095"
+      },
+      {
+        "chainId": 137,
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+      },
+      { "chainId": 56, "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/wbtc-wrapped-bitcoin/logo.png"
+  },
+  {
+    "name": "Ethereum",
+    "token": "weth",
+    "network": [
+      { "chainId": 1, "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2" },
+      {
+        "chainId": 10,
+        "address": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "chainId": 56,
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+      },
+      {
+        "chainId": 137,
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+      },
+      {
+        "chainId": 8453,
+        "address": "0x4200000000000000000000000000000000000006"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/weth-weth/logo.png"
+  },
+  {
+    "name": "Tether USDt",
+    "token": "usdt",
+    "network": [
+      { "chainId": 1, "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7" },
+      {
+        "chainId": 10,
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+      },
+      {
+        "chainId": 56,
+        "address": "0x55d398326f99059fF775485246999027B3197955"
+      },
+      {
+        "chainId": 137,
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/usdt-tether/logo.png"
+  },
+  {
+    "name": "BNB",
+    "token": "bnb",
+    "network": [
+      { "chainId": 1, "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52" },
+      {
+        "chainId": 42161,
+        "address": "0x20865e63B111B2649ef829EC220536c82C58ad7B"
+      },
+      {
+        "chainId": 137,
+        "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d"
+      },
+      { "chainId": 56, "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/bnb-binance-coin/logo.png"
+  },
+  {
+    "name": "Solana",
+    "token": "sol",
+    "network": [
+      { "chainId": 1, "address": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c" },
+      {
+        "chainId": 56,
+        "address": "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xb74Da9FE2F96B9E0a5f4A3cf0b92dd2bEC617124"
+      },
+      {
+        "chainId": 10,
+        "address": "0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1"
+      },
+      {
+        "chainId": 137,
+        "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/sol-solana/logo.png"
+  },
+  {
+    "name": "USDC",
+    "token": "usdc",
+    "network": [
+      { "chainId": 1, "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48" },
+      {
+        "chainId": 10,
+        "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607"
+      },
+      {
+        "chainId": 56,
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+      },
+      {
+        "chainId": 137,
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+      },
+      {
+        "chainId": 8453,
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/usdc-usdc/logo.png"
+  },
+  {
+    "name": "XRP",
+    "token": "xrp",
+    "network": [
+      { "chainId": 1, "address": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc" },
+      { "chainId": 56, "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/xrp-xrp/logo.png"
+  },
+  {
+    "name": "Toncoin",
+    "token": "ton",
+    "network": [
+      { "chainId": 1, "address": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1" },
+      {
+        "chainId": 56,
+        "address": "0x76A797A59Ba2C17726896976B7B3747BfD1d220f"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x425AC12bb19070901C0CDE873Fc5299cbD7f23D4"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/ton-toncoin/logo.png"
+  },
+  {
+    "name": "Dogecoin",
+    "token": "doge",
+    "network": [
+      { "chainId": 56, "address": "0xba2ae424d960c26247dd6c32edc70b295c744c43" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/doge-dogecoin/logo.png"
+  },
+  {
+    "name": "Cardano",
+    "token": "ada",
+    "network": [
+      { "chainId": 56, "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/ada-cardano/logo.png"
+  },
+  {
+    "name": "TRON",
+    "token": "trx",
+    "network": [
+      {
+        "chainId": 56,
+        "address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3"
+      },
+      { "chainId": 1, "address": "0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5" },
+      { "chainId": 10, "address": "0xb1aE0a34DC3976d98C1741C92b798dAF8E0e1e11" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/trx-tron/logo.png"
+  },
+  {
+    "name": "Shiba Inu",
+    "token": "shib",
+    "network": [
+      { "chainId": 1, "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE" },
+      {
+        "chainId": 137,
+        "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x5033833c9fe8B9d3E09EEd2f73d2aaF7E3872fd1"
+      },
+      { "chainId": 56, "address": "0xb455d798e8b07dbbf9d4609f7b7bdc574463d0b3" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/shib-shiba-inu/logo.png"
+  },
+  {
+    "name": "Avalanche",
+    "token": "avax",
+    "network": [
+      { "chainId": 1, "address": "0x85f138bfee4ef8e540890cfb48f620571d67eda3" },
+      {
+        "chainId": 56,
+        "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+      },
+      {
+        "chainId": 137,
+        "address": "0x7bb11e7f8b10e9e571e5d8eace04735fdfb2358a"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/avax-avalanche/logo.png"
+  },
+  {
+    "name": "Polkadot",
+    "token": "dot",
+    "network": [
+      { "chainId": 56, "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/dot-polkadot/logo.png"
+  },
+  {
+    "name": "Chainlink",
+    "token": "link",
+    "network": [
+      { "chainId": 1, "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA" },
+      {
+        "chainId": 10,
+        "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6"
+      },
+      {
+        "chainId": 56,
+        "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD"
+      },
+      {
+        "chainId": 137,
+        "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/link-chainlink/logo.png"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "token": "bch",
+    "network": [
+      { "chainId": 56, "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/bch-bitcoin-cash/logo.png"
+  },
+  {
+    "name": "NEAR Protocol",
+    "token": "near",
+    "network": [
+      { "chainId": 1, "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/near-near-protocol/logo.png"
+  },
+  {
+    "name": "UNUS SED LEO",
+    "token": "leo",
+    "network": [
+      { "chainId": 1, "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/leo-leo-token/logo.png"
+  },
+  {
+    "name": "Polygon",
+    "token": "matic",
+    "network": [
+      { "chainId": 1, "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0" },
+      {
+        "chainId": 56,
+        "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD"
+      },
+      {
+        "chainId": 137,
+        "address": "0x0000000000000000000000000000000000001010"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x561877b6b3DD7651313794e5F2894B2F18bE0766"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/matic-polygon/logo.png"
+  },
+  {
+    "name": "Litecoin",
+    "token": "ltc",
+    "network": [
+      { "chainId": 56, "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/ltc-litecoin/logo.png"
+  },
+  {
+    "name": "Dai",
+    "token": "dai",
+    "network": [
+      { "chainId": 1, "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F" },
+      {
+        "chainId": 10,
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+      },
+      {
+        "chainId": 56,
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+      },
+      {
+        "chainId": 137,
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+      },
+      {
+        "chainId": 8453,
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/dai-dai/logo.png"
+  },
+  {
+    "name": "Pepe",
+    "token": "pepe",
+    "network": [
+      { "chainId": 1, "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933" },
+      {
+        "chainId": 10,
+        "address": "0xC1c167CC44f7923cd0062c4370Df962f9DDB16f5"
+      },
+      {
+        "chainId": 8453,
+        "address": "0xB4fDe59a779991bfB6a52253B51947828b982be3"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB"
+      },
+      { "chainId": 56, "address": "0xef00278d7eadf3b2c05267a2f185e468ad7eab7d" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/pepe-pepe/logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "token": "uni",
+    "network": [
+      { "chainId": 1, "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984" },
+      {
+        "chainId": 10,
+        "address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691"
+      },
+      {
+        "chainId": 56,
+        "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1"
+      },
+      {
+        "chainId": 137,
+        "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0"
+      },
+      {
+        "chainId": 8453,
+        "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/uni-uniswap/logo.png"
+  },
+  {
+    "name": "Mantle",
+    "token": "mnt",
+    "network": [
+      { "chainId": 1, "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354" },
+      { "chainId": 56, "address": "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/mnt-mantle/logo.png"
+  },
+  {
+    "name": "Kaspa",
+    "token": "kas",
+    "network": [
+      { "chainId": 1, "address": "0x112b08621e27e10773ec95d250604a041f36c582" },
+      {
+        "chainId": 56,
+        "address": "0x51e72dd1f2628295cc2ef931cb64fdbdc3a0c599"
+      },
+      {
+        "chainId": 137,
+        "address": "0x3562ddf1f5ce2c02ef109e9d5a72e2fdb702711d"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/kas-kaspa/logo.png"
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "token": "fet",
+    "network": [
+      { "chainId": 1, "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85" },
+      {
+        "chainId": 56,
+        "address": "0x031b41e504677879370e9DBcF937283A8691Fa7f"
+      },
+      {
+        "chainId": 137,
+        "address": "0x7583FEDDbceFA813dc18259940F76a02710A8905"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x4BE87C766A7CE11D5Cc864b6C3Abb7457dCC4cC9"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/fetch-ai/logo.png"
+  },
+  {
+    "name": "Maker",
+    "token": "mkr",
+    "network": [
+      { "chainId": 1, "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2" },
+      {
+        "chainId": 10,
+        "address": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5"
+      },
+      {
+        "chainId": 137,
+        "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x2e9a6Df78E42a30712c10a9Dc4b1C8656f8F2879"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/mkr-maker/logo.png"
+  },
+  {
+    "name": "Aptos",
+    "token": "apt",
+    "network": [
+      {
+        "chainId": 56,
+        "address": "0xa49c8cbbddfe4dbc8605f0f5c8f2845c5e225d22"
+      },
+      { "chainId": 1, "address": "0x8CDf7AF57E4c8B930e1B23c477c22f076530585e" },
+      { "chainId": 10, "address": "0xC5B3AC2DF8D8D7AC851F763a5b3Ff23B4A696d59" }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/apt-aptos/logo.png"
+  },
+  {
+    "name": "Render",
+    "token": "rndr",
+    "network": [
+      { "chainId": 1, "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24" },
+      {
+        "chainId": 137,
+        "address": "0x61299774020dA444Af134c82fa83E3810b309991"
+      },
+      {
+        "chainId": 42161,
+        "address": "0xC8a4EeA31E9B6b61c406DF013DD4FEc76f21E279"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/rndr-render-token/logo.png"
+  },
+  {
+    "name": "The Graph",
+    "token": "grt",
+    "network": [
+      { "chainId": 1, "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7" },
+      {
+        "chainId": 137,
+        "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
+      },
+      {
+        "chainId": 42161,
+        "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
+      }
+    ],
+    "iconURL": "https://static.coinpaprika.com/coin/grt-the-graph/logo.png"
+  }
+]
